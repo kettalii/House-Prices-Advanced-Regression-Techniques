@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Kaggle - House Prices: Advanced Regression Techniques
+House Prices: Advanced Regression Techniques
 
 With 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, this 
 competition challenges the data science community to predict the final price of each home.
@@ -25,7 +24,7 @@ Feature engineering and a solution using Kernel Ridge regression are shown in [K
 ### Reference
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 =======
-# Kaggle - House Prices: Advanced Regression Techniques
+ House Prices: Advanced Regression Techniques
 
 With 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa, this 
 competition challenges the data science community to predict the final price of each home.
